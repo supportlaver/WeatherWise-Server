@@ -105,6 +105,19 @@
   - **WebSocket + STOMP**:
     - 실시간 양방향 통신 구현.
     - 채팅방 내 메시지 브로드캐스팅 및 실시간 알림 기능 제공.
+   
+### :hammer_and_wrench: ERD
+
+<img width="866" alt="스크린샷 2025-04-02 오후 11 11 08" src="https://github.com/user-attachments/assets/7624bc05-8322-4bc5-8fdc-f2f86931cee4" />
+
+</br>
+
+### :world_map:Architecture
+
+<img width="922" alt="스크린샷 2025-04-02 오후 11 17 18" src="https://github.com/user-attachments/assets/55c9742a-f791-4724-8a67-96b63e6b0442" />
+
+
+</br>
 
 ### 🌈 개선 사항
 
